@@ -25,7 +25,11 @@
       </list>
     </option>
   </component>
+ smjoshi
+  <component name="ProjectId" id="1hfBprwG8SAwMEbLYTEkj589c7H" />
+=======
   <component name="ProjectId" id="1hfUiS1hWr6mCcliFXMqOOqagf2" />
+ master
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -98,6 +102,28 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+ smjoshi
+    <state width="1153" height="310" key="GridCell.Tab.0.bottom" timestamp="1600393058807">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1153" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600393058807" />
+    <state width="1153" height="310" key="GridCell.Tab.0.center" timestamp="1600393058806">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1153" height="310" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600393058806" />
+    <state width="1153" height="310" key="GridCell.Tab.0.left" timestamp="1600393058806">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1153" height="310" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600393058806" />
+    <state width="1153" height="310" key="GridCell.Tab.0.right" timestamp="1600393058807">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1153" height="310" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600393058807" />
+    <state x="605" y="12" key="SettingsEditor" timestamp="1600392702972">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="605" y="12" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600392702972" />
+=======
     <state width="754" height="418" key="GridCell.Tab.0.bottom" timestamp="1600402182351">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -118,5 +144,6 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="752" y="89" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600401797292" />
+  master
   </component>
 </project>
